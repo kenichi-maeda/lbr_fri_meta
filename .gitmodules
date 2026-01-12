@@ -31,3 +31,6 @@
 [submodule "ros/ros-humble"]
 	path = ros/ros-humble
 	url = https://github.com/kenichi-maeda/ros-humble.git
+[submodule "ros/ros-jazzy"]
+	path = ros/ros-jazzy
+	url = https://github.com/kenichi-maeda/ros-jazzy.git
