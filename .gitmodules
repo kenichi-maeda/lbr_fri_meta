@@ -13,3 +13,6 @@
 [submodule "fri/fri-1.16"]
 	path = fri/fri-1.16
 	url = https://github.com/lbr-stack/fri.git
+[submodule "fri/fri-2.5"]
+	path = fri/fri-2.5
+	url = https://github.com/lbr-stack/fri.git
