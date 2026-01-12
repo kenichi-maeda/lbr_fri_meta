@@ -22,3 +22,6 @@
 [submodule "fri/fri-2.7"]
 	path = fri/fri-2.7
 	url = https://github.com/lbr-stack/fri.git
+[submodule "lbr_fri_ros2_stack/humble"]
+	path = lbr_fri_ros2_stack/humble
+	url = https://github.com/lbr-stack/lbr_fri_ros2_stack.git
