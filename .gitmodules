@@ -28,3 +28,6 @@
 [submodule "lbr_fri_ros2_stack/jazzy"]
 	path = lbr_fri_ros2_stack/jazzy
 	url = https://github.com/lbr-stack/lbr_fri_ros2_stack.git
+[submodule "ros/ros-humble"]
+	path = ros/ros-humble
+	url = https://github.com/kenichi-maeda/ros-humble.git
