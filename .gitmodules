@@ -13,6 +13,9 @@
 [submodule "fri/fri-1.16"]
 	path = fri/fri-1.16
 	url = https://github.com/lbr-stack/fri.git
+[submodule "fri/fri-1.17"]
+	path = fri/fri-1.17
+	url = https://github.com/lbr-stack/fri.git
 [submodule "fri/fri-2.5"]
 	path = fri/fri-2.5
 	url = https://github.com/lbr-stack/fri.git
@@ -33,4 +36,4 @@
 	url = https://github.com/kenichi-maeda/ros-humble.git
 [submodule "ros/ros-jazzy"]
 	path = ros/ros-jazzy
-	url = https://github.com/kenichi-maeda/ros-jazzy.git
+	url = https://github.com/kenichi-maeda/ros-jazzy.git	
